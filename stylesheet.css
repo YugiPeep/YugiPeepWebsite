@@ -99,24 +99,24 @@ body {
 
 
 .DownloadWPEngineText6 {
-	position: relative;
+	position: absolute;
 	text-align: center;
 	font-size: 35px;
 	color: rgb(255, 255, 255);
-	top: -200px;
-	left: -375px;
+	bottom: 100px;
+	left: 200px;
 }
 
 .WPEngineScreenshot {
-	position: relative;
+	position: absolute;
 	height: 300px;
 	left: 850px;
 }
 
 .TwitterLogo {
-	position: relative;
+	position: absolute;
 	height: 100px;
 	border-radius: 50px;
-	right: 800px;
-	top: -60px;
+	left: 250px;
+	top: 25px;
 }
